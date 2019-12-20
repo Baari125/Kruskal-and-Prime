@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544364978 source:e:\studia\1 semestr\algosy\kruskalprime\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<sstream>
+
